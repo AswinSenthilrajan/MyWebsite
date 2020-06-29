@@ -3,7 +3,7 @@ html, body {
     padding: 0;
     height: 100%;
     text-align: center;
-    background-color: #eaeaea /*whitesmoke*/;
+    background-color: /*whitesmoke*/;
 }
 
 section 
@@ -65,7 +65,7 @@ header {
   position: fixed;
   top: 0;
   left: 0;
-  background: #33363b; /*white*/
+  background: #27292D/*#33363b*/; /*white*/
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   z-index: 1;
 
