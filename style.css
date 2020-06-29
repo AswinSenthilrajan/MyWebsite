@@ -27,6 +27,12 @@ li
   color: lightgray;/*#000000*/
   text-transform: uppercase;
 }
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color:#000000;
+  text-transform: uppercase;
+}
 
 h2 {
   color: #000000;
