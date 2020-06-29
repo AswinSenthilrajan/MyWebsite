@@ -128,11 +128,7 @@ header nav ul li:hover {
     border-radius: 5px;
   }
 
-/*---------------------------------*/
-#about{
-  width: 100%;
-}
-/*----------------------------------------------*/
+
 #about img {
   width: 240px;
   border-radius: 5px;
@@ -149,7 +145,7 @@ header nav ul li:hover {
 }
 
 #about p {
-  width: 700px;
+  width: /*700px*/100%;
   margin: 0 auto 0 auto;
 }
 
