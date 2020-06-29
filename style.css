@@ -228,18 +228,15 @@ header nav ul li:hover {
 }
 
 #Social-Media img:hover {
-  /*
+  
   opacity: 0.5;
-  transform: scale(1.1);
+  transform: scale(1);
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
   -o-transform: scale(1.1);
-  padding-top: 50px;
-  */
-  transform: scale(1.1);
-  -webkit-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -o-transform: scale(1.1);
+  padding-top: 40px;
+
+
   /*box.shadow: 0 5px 5px rgba(0, 0, 0, 0.1);*/
 
 
