@@ -21,13 +21,13 @@ li
  list-style-type: none;
 }
 
-/*h1*/ h2, h3, a {
+/*h1,*/ /*h2,*/ h3, a {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   color: lightgray;/*#000000*/
   text-transform: uppercase;
 }
-h1{
+h1, h2{
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   color:#000000;
