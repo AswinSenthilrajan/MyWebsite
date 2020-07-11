@@ -30,7 +30,7 @@ li
 h1, h2, h3{
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
-  color:#000000;
+  color: white;
   text-transform: uppercase;
 }
 
@@ -51,7 +51,7 @@ h4, p {
 hr {
   width: 30px;
   height: 3px;
-  background: #494949;
+  background: /*#494949*/grey;
   border: 0;
   margin: 0 auto 40px auto;
 }
@@ -161,7 +161,7 @@ header nav ul li:hover {
 }
 
 #Selfmade-Bilder ul li {
-  width: 25%;
+  width: 33.3%;
   float: left;
   margin-bottom: 15px;
 }
@@ -221,7 +221,7 @@ header nav ul li:hover {
 }
 
 #Social-Media ul li {
-  width: 33.3%;
+  width: 25%;
   float: left;
   margin-bottom: 15px;
 }
@@ -242,4 +242,8 @@ header nav ul li:hover {
 }
 #Meine-Familie img {
   border-radius: 5px;
+}
+
+h6{
+  color: whitesmoke;
 }
