@@ -187,21 +187,20 @@ header nav ul li:hover {
 }
 
 #projects ul {
-        padding: 0;
-    }
+    padding: 0;
+}
 
 #projects ul li {
-            width: 33.3%;
-            float: left;
-            margin-bottom: 15px;
-        }
+    width: 33.3%;
+    float: left;
+    margin-bottom: 15px;
+}
 
-#projects img 
-{
+#projects img {
     width: 280px;
     height: 170px;
     border-radius: 5px;
-    }
+}
 #projects img:hover 
 {
     transform: scale(1.1);
