@@ -285,6 +285,12 @@ progress::-webkit-progress-value {
    background: green; 
   }
 
+progress::-o-progress-value{
+  background: green;
+}
+
+
+
 
 
 
