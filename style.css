@@ -289,11 +289,6 @@ progress::-o-progress-value{
   background: green;
 }
 
-
-
-
-
-
-
-
-
+progress::-apple-progress-value{
+  background: green;
+}
