@@ -282,7 +282,7 @@ progress::-moz-progress-bar {
    background: green; 
   }
 progress::-webkit-progress-value {
-   background: blue; 
+   background: green; 
   }
 
 
