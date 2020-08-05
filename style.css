@@ -55,7 +55,7 @@ hr {
   border: 0;
   margin: 0 auto 40px auto;
 }
-#Logo, li, img {transition: all 300ms;-webkit-transition: all 300ms;-moz-transition: all 300ms;-o-transition: all 300ms;}
+#Logo, li, img {transition: all 300ms;-webkit-transition: all 300ms;-moz-transition: all 300ms;-o-transition: all 300ms;-apple-transition: all 300ms;}
 
 
 
@@ -108,6 +108,7 @@ header nav ul li:hover {
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
+  width: 100%
 }
 #home h1 {
   margin: 240px auto 0 auto;
